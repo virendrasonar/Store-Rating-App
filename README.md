@@ -23,7 +23,7 @@ The system supports role-based access, where different users (Admin, Normal User
 - **Frontend:** React.js  
 - **Backend:** (Express)  
 - **Database:** (MySQL)  
-- **Other:** REST APIs, JWT (if used)  
+- **Other:** REST APIs, JWT
 
 ---
 
