@@ -55,3 +55,8 @@ npm start
 Due to limited time, the implementation focuses on delivering the **core functionality** of the system, including authentication, role management, and store rating features.
 
 ---
+
+## 📷 Screenshots  
+
+> Note: Some screenshots may not reflect the final version of the application.  
+> Features such as input validation and enhanced security (e.g., bcrypt password hashing) were integrated in later stages of development.
