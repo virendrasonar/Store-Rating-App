@@ -59,4 +59,4 @@ Due to limited time, the implementation focuses on delivering the **core functio
 ## 📷 Screenshots  
 
 > Note: Some screenshots may not reflect the final version of the application.  
-> Features such as input validation and enhanced security (e.g., bcrypt password hashing) were integrated in later stages of development.
+> Features such as input validation were integrated in later stages of development.
