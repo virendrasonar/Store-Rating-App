@@ -55,10 +55,3 @@ npm start
 Due to limited time, the implementation focuses on delivering the **core functionality** of the system, including authentication, role management, and store rating features.
 
 ---
-
-## 🔮 Future Improvements  
-- Complete remaining role-specific dashboards (Admin/Store Owner enhancements)  
-- Add form validations and error handling improvements  
-- Improve UI/UX design  
-- Add pagination and search for stores  
-- Implement unit and integration testing  
