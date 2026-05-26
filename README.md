@@ -21,8 +21,8 @@ The system supports role-based access, where different users (Admin, Normal User
 
 ## 🛠 Tech Stack  
 - **Frontend:** React.js  
-- **Backend:** (mention what you used — Express / NestJS)  
-- **Database:** (MySQL or PostgreSQL)  
+- **Backend:** (Express)  
+- **Database:** (MySQL)  
 - **Other:** REST APIs, JWT (if used)  
 
 ---
